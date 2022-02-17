@@ -14,4 +14,8 @@ public class Car {
         System.out.println("barke applied");
     }
 
+    public void refuel(){
+        System.out.println("crv refuel");
+    }
+
 }

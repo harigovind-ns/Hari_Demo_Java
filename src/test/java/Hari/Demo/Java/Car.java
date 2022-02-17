@@ -18,4 +18,8 @@ public class Car {
         System.out.println("crv refuels");
     }
 
+    public void start(){
+        System.out.println("crv start");
+    }
+
 }

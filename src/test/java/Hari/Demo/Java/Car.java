@@ -15,7 +15,7 @@ public class Car {
     }
 
     public void refuel(){
-        System.out.println("crv refuel");
+        System.out.println("crv refuels");
     }
 
 }

@@ -22,4 +22,8 @@ public class Car {
         System.out.println("crv start");
     }
 
+    public void stop(){
+        System.out.println("crv stop");
+    }
+
 }
